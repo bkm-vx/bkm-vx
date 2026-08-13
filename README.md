@@ -1,41 +1,48 @@
-<div align="center">
+<h1 align="center">Hi there, I'm BKM 👋</h1>
+<h3 align="center">Bot Developer | Website Developer | Free Fire Panel Developer</h3>
 
-<!-- Cool Welcome Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=H+E+L+L+O+;I+A+M+B+K+M" alt="Welcome Text" />
-
-<br>
-
-<!-- Animated Hacker Image -->
-<img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="150"/>
-
-<br><br>
-
-<!-- Professional Hacker Terminal with your details -->
-<a href="https://github.com/bkm-vx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&background=050505&center=false&vCenter=true&width=550&height=180&multiline=true&lines=%E2%9E%9C+~+whoami;Name:+BKM+(bkm-vx);%E2%9E%9C+~+cat+skills.txt;Bot+Developer+%7C+Website+Developer;Free+Fire+Panel+Developer;%E2%9E%9C+~+System+Status:+Online+and+Hacking" alt="Terminal Profile" />
-</a>
-
-<br><br>
-
-<!-- Skills Section -->
-<h2 align="center" style="color:#00FF00;">🛠️ Tech Stack & Skills</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,html,css,python,bash,git,github,vscode&theme=dark" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=bkm-vx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/bkm-vx">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Discord+Bots+🤖;Developing+Cool+Websites+🌐;Creating+FF+Panels+🔥;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
   </a>
 </p>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- GitHub Stats Cards -->
-<h2 align="center" style="color:#00FF00;">📊 System Analytics</h2>
+## 🚀 About Me
 
-<a href="https://github.com/bkm-vx">
-  <img src="https://github-readme-stats.vercel.app/api?username=bkm-vx&show_icons=true&bg_color=050505&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false" alt="GitHub Stats" />
-</a>
-<br>
-<a href="https://github.com/bkm-vx">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkm-vx&layout=compact&bg_color=050505&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="Top Languages" />
-</a>
+*   🔭 I’m currently working on **Advanced Discord Bots & Web Panels**
+*   🌱 I’m currently learning **Full Stack Development**
+*   💬 Ask me about **Bots, Web Dev, and FF Panels**
+*   📫 How to reach me: **Drop a message on GitHub**
+*   ⚡ Fun fact: **I turn coffee into code!**
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,html,css,python,bash,git,github,vscode,mongodb,react&theme=dark&perline=6" alt="My Skills" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bkm-vx&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bkm-vx&theme=tokyonight" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkm-vx&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
