@@ -1,32 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=BKM&fontSize=100&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER&descAlignY=58&descSize=22&color=0:020617,25:0f172a,55:1e3a8a,80:2563eb,100:06b6d4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&text=BKM&fontSize=105&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%2F%2F%20DIGITAL%20BUILDER&descAlignY=58&descSize=21&color=0:000000,20:020617,45:0f172a,70:1e3a8a,100:06b6d4" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=850&color=38BDF8&center=true&vCenter=true&width=950&height=55&lines=DISCORD+BOT+DEVELOPER;FULL+STACK+DEVELOPER;BACKEND+SYSTEM+DEVELOPER;WEB+APPLICATION+DEVELOPER;CUSTOM+PANEL+DEVELOPER;BUILDING+THE+NEXT+PROJECT" alt="Animated Developer Role"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=1000&height=65&lines=DISCORD+SYSTEMS;WEB+APPLICATIONS;BACKEND+ENGINEERING;CUSTOM+SOFTWARE;AUTOMATION+SYSTEMS;BUILDING+THE+FUTURE+ONE+PROJECT+AT+A+TIME" alt="Animated Title"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bkm-vx&label=PROFILE+VIEWS&style=for-the-badge&color=2563eb"/>
+<img src="https://komarev.com/ghpvc/?username=bkm-vx&label=PROFILE+VIEWS&style=for-the-badge&color=0891b2"/>
 
 <a href="https://github.com/bkm-vx">
-<img src="https://img.shields.io/badge/GITHUB-BKM-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/BKM-GITHUB-020617?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 <a href="https://github.com/bkm-vx?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-VIEW-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-1d4ed8?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%"/>
 
 </div>
 
 <br>
 
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&height=40&lines=%3C+ABOUT+ME+%2F%3E" alt="About Me"/>
+# `01 // IDENTITY`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&height=35&lines=DESIGNING+SYSTEMS;ENGINEERING+APPLICATIONS;SOLVING+PROBLEMS;LEARNING+EVERY+DAY" alt="Animated Identity"/>
 
 </div>
 
@@ -37,23 +41,23 @@
 
 ## BKM
 
-I am a developer focused on building modern software, web applications, Discord systems and custom digital platforms.
+I am a software developer focused on building modern digital products, application systems and custom development solutions.
 
-I enjoy working across both frontend and backend development, connecting clean interfaces with reliable application logic.
+I work across multiple layers of development, from interfaces and application logic to APIs, databases and automation.
 
-My goal is simple:
-
-**Build better software. Learn continuously. Improve every version.**
-
-<br>
-
-### Primary Areas
+### Core Philosophy
 
 ```text
-Discord Development
-Web Development
-Backend Engineering
-API Development
-Database Systems
-Automation
-Custom Software
+PLAN
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+OPTIMIZE
+  ↓
+DEPLOY
+  ↓
+REPEAT
